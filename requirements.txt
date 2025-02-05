@@ -1,7 +1,7 @@
 streamlit
 matplotlib
 numpy
-doctr
+python-doctr
 pandas
 pdf2docx
 pdfplumber
