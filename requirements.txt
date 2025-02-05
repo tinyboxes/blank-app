@@ -3,6 +3,6 @@ pandas
 pdf2docx
 pdfplumber
 pillow
-pypdf
+PyPDF2
 st-social-media-links
 streamlit-pdf-viewer
