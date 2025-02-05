@@ -1,1 +1,8 @@
 streamlit
+pandas
+pdf2docx
+pdfplumber
+pillow
+pypdf[full]
+st-social-media-links
+streamlit-pdf-viewer
